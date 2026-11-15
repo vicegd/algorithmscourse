@@ -6,11 +6,10 @@ This lightweight, static site acts as the main entry point for all course resour
 
 ## 🔗 The Learning Ecosystem
 
-This hub directs students to three primary pillars of the course:
+This hub directs students to the core pillars of the course:
 
 1. **📖 Interactive Theory ([learnalgorithms.dev](https://learnalgorithms.dev)):** The visual laboratory.
-2. **💻 Code Repository ([Source Code](https://vicegd.github.io/algorithms/)):** The practical workshop. 
-3. **🤖 AI Study Assistant ([NotebookLM](https://notebooklm.google.com/notebook/1ce52ba0-5e2d-4b8b-8e69-89458a71ce80?authuser=1)):** The interactive tutor.
+2. **💻 Code Repository ([Source Code](https://vicegd.github.io/algorithms/)):** The practical workshop.
 
 *Note for enrolled students: Official grades and announcements are managed via the [Campus Virtual](https://www.campusvirtual.uniovi.es/course/view.php?id=1162).*
 
