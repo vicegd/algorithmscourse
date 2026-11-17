@@ -2,7 +2,7 @@
 
 Welcome to the central repository for the **Algorithms** course landing page. 
 
-This lightweight, static site acts as the main entry point for all course resources, connecting theoretical visualizers, practical implementations, and AI-assisted study tools into a single, cohesive learning ecosystem.
+This lightweight, static site acts as the main entry point for all course resources, connecting theoretical visualizers and practical implementations into a single, cohesive learning ecosystem.
 
 ## 🔗 The Learning Ecosystem
 
@@ -23,7 +23,7 @@ Designed for zero maintenance and maximum speed:
 
 ## 👨‍💼 Author
 
-[Vicente García Díaz](http://www.vicentegarciadiaz.com)  
+[Vicente García Díaz](https://www.vicentegarciadiaz.com)  
 School of Computer Science    
 University of Oviedo
 
